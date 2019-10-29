@@ -27,7 +27,7 @@ var CanvasFeatures = {
 
 function checkBlendMode ()
 {
-    var pngHead = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/';
+    var pngHead = 'data:,';
     var pngEnd = 'AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==';
 
     var magenta = new Image();

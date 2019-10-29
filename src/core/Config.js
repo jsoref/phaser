@@ -535,7 +535,7 @@ var Config = new Class({
         this.defaultPlugins = defaultPlugins;
 
         //  Default / Missing Images
-        var pngPrefix = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAg';
+        var pngPrefix = 'data:,';
 
         /**
          * @const {string} Phaser.Core.Config#defaultImage - A base64 encoded PNG that will be used as the default blank texture.
